@@ -1,0 +1,13 @@
+body{
+	background-color: #808080; 
+}
+.navbar-brand{
+	margin-left: 35px;
+}
+.nav-item:hover{
+	color: yellowgreen !important;
+}
+.mr15{
+	/*margin-left: 12.5cm;*/
+	margin-right: 45px;
+}
